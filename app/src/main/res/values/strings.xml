@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">REA Inspector</string>
+    <string name="app_subtitle">Evidence-Based Binary, APK &amp; Web Reverse Engineering</string>
+    <string name="nav_binary">Binary &amp; Hex</string>
+    <string name="nav_apk">APK &amp; DEX</string>
+    <string name="nav_web">Web &amp; API</string>
+    <string name="nav_vault">Evidence Vault</string>
+    <string name="action_pick_file">Open External File</string>
+    <string name="action_save_evidence">Save to Evidence Vault</string>
+    <string name="action_run_trace">Trace Endpoint</string>
+    <string name="search_strings_hint">Filter strings, symbols, or offsets…</string>
+    <string name="search_hex_hint">Search hex bytes (e.g. 64 65 78) or ASCII…</string>
+    <string name="empty_vault_title">No Saved Evidence Yet</string>
+    <string name="empty_vault_subtitle">Inspect a DEX/ELF binary, audit an APK, or trace a live API endpoint and tap "Save Evidence" to build your forensic vault.</string>
+</resources>

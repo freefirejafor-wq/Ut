@@ -1,0 +1,6 @@
+{
+  "name": "REA Inspector",
+  "description": "Evidence-based reverse engineering toolkit for inspecting APK packages, DEX headers, native ELF binaries, hex dumps, strings, entropy, and live HTTP/Web traces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
